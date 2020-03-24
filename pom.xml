@@ -33,7 +33,7 @@
                     <execution>
                         <phase>package</phase>
                         <goals>
-                            <goal>shade</goal>
+                            <goal>compile</goal>
                         </goals>
                         <configuration>
                             <transformers>
